@@ -1,0 +1,60 @@
+
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html,body{
+width: 100vh;
+height: 100vh;
+background-color: rgb(218, 243, 235);
+
+}
+.box1
+{
+    background-color: rgb(108, 11, 199);
+    width: 80%;
+    height:90%;
+
+    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/id/1130373972/photo/volunteers-collect-litter-teenager-smiling-environmental-and-ecological-care.webp?a=1&b=1&s=612x612&w=0&k=20&c=1PKMa5n2ywEgG8j8TRVO-sUO7ViG9_DXYTiD37Q6Ms4=);
+   
+
+
+}
+.box2
+{
+    background-color: rgb(34, 109, 65);
+    width:80%;
+    height:85%;
+    
+border-radius: 10px;
+position: relative;
+
+ margin-left:120px ;
+ margin-top: 50px; margin-right: 60px;
+
+
+}
+#Vform
+{
+   width: 50%;
+   height: 60%; 
+   padding: 20px;
+   margin: 20px;
+   justify-items: left;
+   text-align: left;
+   text-wrap:nowrap ;
+   column-gap: 10px;
+
+    
+}
